@@ -1,5 +1,8 @@
 # The-Wumpus-World-Game
 ## Wumpus World PEAS Description
+## Wumpus World 智能体小游戏
+
+CUG人工智能课的一次作业，基于PySide2开发。
 
 ### Performance Measure
 - Gold: +1000
